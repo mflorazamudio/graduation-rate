@@ -2,7 +2,7 @@
 body{
     background-color:#989898;
     font-family: cursive;
-    margin:35px;
+    margin:45px;
 }
 
 img{
@@ -11,4 +11,10 @@ img{
 
 #map{
     float: left;
+}
+
+.tittle{
+    background-color: white;
+    padding: 5px;
+    
 }
