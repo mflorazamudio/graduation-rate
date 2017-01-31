@@ -1,0 +1,14 @@
+
+body{
+    background-color:#989898;
+    font-family: cursive;
+    margin:35px;
+}
+
+img{
+    float: right;
+}
+
+#map{
+    float: left;
+}
