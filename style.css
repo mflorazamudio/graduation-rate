@@ -15,11 +15,24 @@ img{
 
 .tittle{
     background-color: white;
-    padding: 5px;
+    padding: 10px;
     
 }
 
 .idea{
     background-color: #018184;
     padding:5px;
+}
+
+.grate{
+    background-color: #B0E57C;
+    padding: 5px;
+    margin: 2px;
+    
+}
+
+.excited{
+    background-color: #FFAEAE;
+    padding: 5px;
+    margin; 2px;
 }
